@@ -1,5 +1,3 @@
 # Ionic 2: Uber App
 
-Learn Ionic 2 with step-by-step lectures where we create an Uber-clone app, called PickMeUp.
-
-See [Ionic2Tutorial.com](http://ionic2tutorial.com/)
+This will be updated with information on how to correctly install and update dependencies for a working deploy of the Ionic 2 Uber clone app.
